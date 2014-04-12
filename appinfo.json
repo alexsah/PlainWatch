@@ -1,0 +1,25 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "56731760-22b6-4fba-9e2a-1967ae034cd7",
+    "appKeys": {},
+    "longName": "Plain Clock",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Plain Clock",
+    "companyName": "alexsah",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_IMAGE",
+                "file": "images/plain_watch_1058_sml.png"
+            }
+        ]
+    }
+}
